@@ -5,216 +5,41 @@
   "lessons": [
   {
     "title": "Intro",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/",
-    "info": "src/info.md"
-  },{
-    "title": "Welcome",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/1",
-    "info": "src/info.md"
-  },{
-    "title": "About me",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/2",
-    "info": "src/info.md"
-  },{
-    "title": "Why I like blockchain",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/3",
-    "info": "src/info.md"
+    "lesson": "src/lessons/intro.pdf",
+    "info": "src/info/intro.md"
   },{
     "title": "Decentralization",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/4",
-    "info": "src/info.md"
+    "lesson": "src/lessons/decentralization.pdf",
+    "info": "src/info/intro.md"
   },{
-    "title": "Centralized vs decentralized vs distributed",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/5",
-    "info": "src/info.md"
-  },{
-    "title": "Decentralized networks",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/6",
-    "info": "src/info.md"
-  },{
-    "title": "No need for third party",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/7",
-    "info": "src/info.md"
-  },{
-    "title": "No single point of failure",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/8",
-    "info": "src/info.md"
-  },{
-    "title": "Cenzorship resistance",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/9",
-    "info": "src/info.md"
-  },{
-    "title": "Open source",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/10",
-    "info": "src/info.md"
-  },{
-    "title": "Network as public good",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/11",
-    "info": "src/info.md"
-  },{
-    "title": "Meritocratic network",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/12",
-    "info": "src/info.md"
-  },{
-    "title": "Democratic network",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/13",
-    "info": "src/info.md"
-  },{
-    "title": "Bitcoin under the hood",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/15",
-    "info": "src/info.md"
-  },{
-    "title": "Bitcoin - technical overview",
+    "title": "Bitcoin - under the hood",
     "lesson": "https://www.youtube.com/embed/Lx9zgZCMqXE",
-    "info": "src/info.md"
+    "info": "src/info/bitcoin.md"
   },{
-    "title": "Scarcity and transparency",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/16",
-    "info": "src/info.md"
-  },{
-    "title": "Bitcoin - inside of a transaction",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/17",
-    "info": "src/info.md"
-  },{
-    "title": "Blocks",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/18",
-    "info": "src/info.md"
-  },{
-    "title": "Bitcoin vs banks",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/19",
-    "info": "src/info.md"
-  },{
-    "title": "Trustlesness",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/20",
-    "info": "src/info.md"
+    "title": "Bitcoin",
+    "lesson": "src/lessons/bitcoin.pdf",
+    "info": "src/info/intro.md"
   },{
     "title": "Public Key Cryptography",
     "lesson": "https://www.youtube.com/embed/3QnD2c4Xovk",
-    "info": "src/info.md"
+    "info": "src/info/asymetric-cryptography.md"
   },{
-    "title": "Private an public keys",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/21",
-    "info": "src/info.md"
-  },{
-    "title": "Valid transaction (tx)",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/22",
-    "info": "src/info.md"
-  },{
-    "title": "Account balances",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/23",
-    "info": "src/info.md"
-  },{
-    "title": "Trusting previous tx",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/24",
-    "info": "src/info.md"
-  },{
-    "title": "Inputs",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/25",
-    "info": "src/info.md"
-  },{
-    "title": "Complex tx",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/26",
-    "info": "src/info.md"
-  },{
-    "title": "Pseudonymity",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/27",
-    "info": "src/info.md"
-  },{
-    "title": "Hierarchical deterministic wallets",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/28",
-    "info": "src/info.md"
-  },{
-    "title": "Public/private key creation",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/29",
-    "info": "src/info.md"
-  },{
-    "title": "Generating key pairs",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/30",
-    "info": "src/info.md"
-  },{
-    "title": "Bitcoin recap",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/31",
-    "info": "src/info.md"
-  },{
-    "title": "Potential security vulnerability",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/32",
-    "info": "src/info.md"
-  },{
-    "title": "Generating new block",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/33",
-    "info": "src/info.md"
-  },{
-    "title": "Block puzzle",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/34",
-    "info": "src/info.md"
-  },{
-    "title": "SHA256",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/35",
-    "info": "src/info.md"
-  },{
-    "title": "Bitcoin computing",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/36",
-    "info": "src/info.md"
-  },{
-    "title": "New block every 10min",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/37",
-    "info": "src/info.md"
-  },{
-    "title": "Miners",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/38",
-    "info": "src/info.md"
-  },{
-    "title": "Mining",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/39",
-    "info": "src/info.md"
-  },{
-    "title": "Mining and attacks - 1",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/40",
-    "info": "src/info.md"
-  },{
-    "title": "Mining and attacks - 2",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/41",
-    "info": "src/info.md"
-  },{
-    "title": "Bitcoin - a visual demo",
-    "lesson": "https://www.youtube.com/embed/_160oMzblY8",
-    "info": "src/info.md"
-  },{
-    "title": "Public/ private keys and signing",
-    "lesson": "https://www.youtube.com/embed/xIDL_akeras",
-    "info": "src/info.md"
-  },{
-    "title": "Bitcoin generation - The Coinbase",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/43",
-    "info": "src/info.md"
-  },{
-    "title": "BTC",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/44",
-    "info": "src/info.md"
-  },{
-    "title": "BTC",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/45",
-    "info": "src/info.md"
-  },{
-    "title": "Tx fees",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/46",
-    "info": "src/info.md"
-  },{
-    "title": "Mining pools",
-    "lesson": "https://slides.com/ninabreznik/deck-18/embed/#/47",
-    "info": "src/info.md"
+    "title": "Bitcoin - how it works",
+    "lesson": "src/lessons/more-bitcoin.pdf",
+    "info": "src/info/intro.md"
   },{
     "title": "What's next - Ethereum",
     "lesson": "https://www.youtube.com/embed/U_LK0t_qaPo",
-    "info": "src/info.md"
+    "info": "src/info/ethereum.md"
   },{
     "title": "Ethereum gas, gas limit and gas price",
     "lesson": "https://www.youtube.com/embed/yFb2nuUUDX0",
-    "info": "src/info.md"
+    "info": "src/info/ethereum.md"
   }
  ],
   "needs": [],
   "unlocks": [
-    "https://ninabreznik.github.io/play-workshop-remix/"
+    "https://ninabreznik.github.io/play-workshop-remix/",
+    "https://ninabreznik.github.io/play-workshop-chainsafe-blockchainbootcamp-introduction-to-solidity/"
   ]
 }
